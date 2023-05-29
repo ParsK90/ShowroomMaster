@@ -219,6 +219,7 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="DB.sql" />
     <Content Include="showroommater.ico" />
     <None Include="showroommater.png" />
   </ItemGroup>
